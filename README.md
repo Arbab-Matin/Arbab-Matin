@@ -59,31 +59,22 @@
 
 ----
 
-```py
-class DociTeam:
-    first = "love"
-    second = "hardworking"
-    third = "satisfaction"
-```
-
 ```js
-const Parzival = {
+const Matin = {
    pronouns: "He" | "Him",
-   code: [Javascript, HTML, Java],
-   tools: [React, Redux, Node, Styled-Components],
-   askMeAbout: ["web dev", "tech", "app dev", "painting"],
+   code: [ Javascript ],
+   tools: [React, Node],
+   askMeAbout: ["tech", "app dev"],
    technologies: {
       Front: {
           js: ["Node", "Express"],
       },
       DiscordApp: {
-               native: ["Bot Development"]
+               native: ["Bot Development", "Designer"]
       },
       databases: ["mongo", "MySql", "sqlite"],
-      currentFocus: "Building a robot in Discord community",
-      funFact: "There are two ways to write error-free programs; only the third one works"
+      currentFocus: "Building a robot in Discord community"
 };
 ```
 
 ----
-#### <div align="center">Root-Kali</div>
