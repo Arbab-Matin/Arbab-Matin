@@ -43,7 +43,7 @@
 
 
 <div align="center">
-<img src="[[https://cdn.discordapp.com/attachments/862717041152229426/999695108372971591/Screenshot_20220721-194026_Discord.jpg]]" align="center" height="450" style="width: 38%" />
+<img src="https://cdn.discordapp.com/attachments/862717041152229426/999695108372971591/Screenshot_20220721-194026_Discord.jpg" align="center" height="450" style="width: 38%" />
 </div>
 
 
