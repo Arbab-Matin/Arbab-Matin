@@ -5,11 +5,11 @@
 <img src="https://media.discordapp.net/attachments/959980033676542023/974131848093523989/MafiaSnake_-_V2.png" align="center" height="40" width="40" />
 </div>
 
-##### <div align="center">Discord Developer</div>  
+##### <div align="center">Discord Configure</div>  
 
-###### <div align="center">NODE.JS Developer - Graphics Designer</div>  
+###### <div align="center">Moon Team Suppurt - Moon Team Configurer</div>  
 
-###### <div align="center">Artist - Painter</div>
+###### <div align="center">Artist - Designer</div>
 
 ###### <div align="center"> ⚙️</div>
 
@@ -43,7 +43,7 @@
 
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/931125155621666836/976436903232561172/IMG_20220518_152034.jpg" align="center" height="450" style="width: 38%" />
+<img src="[https://cdn.discordapp.com/attachments/931125155621666836/976436903232561172/IMG_20220518_152034.jpg](https://cdn.discordapp.com/attachments/862717041152229426/999695108372971591/Screenshot_20220721-194026_Discord.jpg)" align="center" height="450" style="width: 38%" />
 </div>
 
 
